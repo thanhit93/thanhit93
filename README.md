@@ -1,7 +1,7 @@
 ### Hi there, I'm [Thanh Truong][website] 👋
 <hr/>
 
-🏠 I’m currently living at HCM City, Vietnam 🇻🇳.<br/>
+🏠 I’m currently living at Dong Hoi, Vietnam 🇻🇳.<br/>
 👨‍💻 I’m currently working on Android, iOS, React Native and Flutter.<br/>
 🔭 Currently working as a freelancer(mobile development) at [Upwork][upwork].<br/>
 ⚡ Available for freelance projects.<br/>
